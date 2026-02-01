@@ -1,4 +1,2 @@
 # PortFolio2
-
-haii
-friends
+Making Ouer second Portfolio
